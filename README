@@ -1,4 +1,4 @@
-SimpleGit Ruby Library
+IIISimpleGit Ruby Library
 ======================
 
 This library calls git commands and returns the output.
